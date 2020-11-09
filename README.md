@@ -13,4 +13,4 @@
 * English;
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dwyvid1&show_icons=true&theme=dracula)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dwyvid1&repo=bootcamp-gostack&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dwyvid1&repo=bootcamp-gostack&show_icons=true&theme=dracula)](https://github.com/dwyvid1/bootcamp-gostack)
