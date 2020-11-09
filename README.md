@@ -10,6 +10,6 @@
 
 ## What am I studying? :rocket:
 * Bootcamp GoStack (Rocketseat) - NodeJS, ReactJS and React Native;
-* Desenvolvimento Web - HTML 5, CSS3, JavaScript;
+* Web Development - HTML 5, CSS3, JavaScript;
 * Linux Administration ( reading Linux - The Bible);
 * English;
