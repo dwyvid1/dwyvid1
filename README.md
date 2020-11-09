@@ -1,8 +1,6 @@
 # Hi there :wave:, i'm Deyvid Nascimento.
 ##  A Front-end Developer from Brazil. :purple_heart:
 
-![](https://media.giphy.com/media/TfelnmQ8VU3K/giphy.gif)
-
 ## Contact :e-mail:
 * Linkedin: https://www.linkedin.com/in/deyvid-nascimento-101a69197/
 * Instagram: https://www.instagram.com/dwyvid_/
@@ -13,3 +11,5 @@
 * Web Development - HTML 5, CSS3, JavaScript;
 * Linux Administration ( reading Linux - The Bible);
 * English;
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dwyvid1&show_icons=true&theme=dracula)
