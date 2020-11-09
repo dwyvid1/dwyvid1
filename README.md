@@ -1,5 +1,5 @@
-# Hi there :wave:, i'm Deyvid Nascimento.
-##  A Front-end Developer from Brazil. :purple_heart:
+#Hi there :wave:, i'm Deyvid Nascimento.
+#  A Front-end Developer from Brazil. :purple_heart:
 
 ## Contact :e-mail:
 * Linkedin: https://www.linkedin.com/in/deyvid-nascimento-101a69197/
