@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there :wave:, i'm Deyvid Nascimento. A Front-end Developer from Brazil.
 
-<!--
-**dwyvid1/dwyvid1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://media.giphy.com/media/TfelnmQ8VU3K/giphy.gif)
 
-Here are some ideas to get you started:
+## Contact :e-mail:
+* Linkedin: https://www.linkedin.com/in/deyvid-nascimento-101a69197/
+* Instagram: https://www.instagram.com/dwyvid_/
+* Twitter: https://twitter.com/dwyvid1
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What am I studying? :rocket:
+* Bootcamp GoStack (Rocketseat) - NodeJS, ReactJS and React Native;
+* Desenvolvimento Web - HTML 5, CSS3, JavaScript;
+* Linux Administration ( reading Linux - The Bible);
+* English;
