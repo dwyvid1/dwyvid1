@@ -12,5 +12,9 @@
 * Linux Administration ( reading Linux - The Bible);
 * English;
 
+## Academic formation: :mortar_board:
+* High School - ETE Epitácio Pessoa; :books:
+* Computer Network Technician - ETE Epitácio Pessoa; :computer:
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dwyvid1&show_icons=true&theme=dracula)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dwyvid1&repo=bootcamp-gostack&show_icons=true&theme=dracula)](https://github.com/dwyvid1/bootcamp-gostack)
