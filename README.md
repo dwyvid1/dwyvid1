@@ -1,5 +1,5 @@
 <h1 align="center">Hi there :wave:, i'm Deyvid Nascimento.</h1>
-<h1 align="center">A Front-end Developer from Brazil. :purple_heart:</h1>
+<h1 align="center">A Front-end Developer from Brazil. :green_heart:</h1>
 
 ## Contact :e-mail:
 * Linkedin: https://www.linkedin.com/in/deyvid-nascimento-101a69197/
