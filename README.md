@@ -13,7 +13,7 @@
 * Linux Administration ( reading Linux - The Bible);
 * English;
 
-# I have experience :computer::  
+## I have experience :computer::  
 * HTML 5, CSS 3 & JavaScript;
 * NodeJS & ReactJS;
 * Responsive display creation techniques for the Web;
