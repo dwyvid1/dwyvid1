@@ -13,6 +13,13 @@
 * Linux Administration ( reading Linux - The Bible);
 * English;
 
+# I have experience :computer::  
+* HTML 5, CSS 3 & JavaScript;
+* NodeJS & ReactJS;
+* Responsive display creation techniques for the Web;
+* Linux and Windows;
+* Technical support & Computer network;
+
 ## Academic formation: :mortar_board:
 * High School - ETE Epitácio Pessoa; :books:
 * Computer Network Technician - ETE Epitácio Pessoa; :computer:
