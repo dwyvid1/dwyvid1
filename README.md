@@ -1,7 +1,7 @@
 <h1 align="center">Hi there :v:, i'm Deyvid Nascimento.</h1>
 <h1 align="center">A Web Developer from Brazil:rocket:</h1>
 
-## What am I studying? :green_book:
+## What am I studying? :books:
 * Bootcamp GoStack (Rocketseat) - NodeJS, ReactJS and React Native & more;
 * Discover (Rocketseat) - Web Development and Programming courses for beginners;
 * HTML 5, CSS3, JavaScript;
@@ -10,7 +10,7 @@
 * English;
 
 ## Academic formation: :mortar_board:
-* High School - ETE Epitácio Pessoa; :books:
+* High School - ETE Epitácio Pessoa; :green_book:
 * Computer Network Technician - ETE Epitácio Pessoa; :computer:
 
 ## Contact :e-mail:
