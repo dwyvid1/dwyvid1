@@ -1,4 +1,4 @@
-<h1 align="center">Hi there , i'm Deyvid Nascimento.</h1>
+<h1 align="center">Hi there :v:, i'm Deyvid Nascimento.</h1>
 <h1 align="center">A Web Developer from Brazil:rocket:</h1>
 
 ## What am I studying? :green_book:
