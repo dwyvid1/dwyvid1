@@ -9,15 +9,11 @@
 ## What am I studying? :green_book:
 * Bootcamp GoStack (Rocketseat) - NodeJS, ReactJS and React Native & more;
 * Discover (Rocketseat) - Web Development and Programming courses for beginners;
-* HTML 5, CSS3, JavaScript, Responsive Interfaces & more;
+* HTML 5, CSS3, JavaScript;
 * Linux Administration ( reading Linux - The Bible);
-* English;
 
-## I have experience :computer::  
-* HTML 5, CSS 3 & JavaScript;
-* NodeJS & ReactJS;
-* Software and Hardware;
-* Computer Network;
+Computer network
+* English;
 
 ## Academic formation: :mortar_board:
 * High School - ETE Epitácio Pessoa; :books:
