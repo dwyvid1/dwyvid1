@@ -16,9 +16,8 @@
 ## I have experience :computer::  
 * HTML 5, CSS 3 & JavaScript;
 * NodeJS & ReactJS;
-* Responsive display creation techniques for the Web;
-* Linux and Windows;
-* Technical support & Computer network;
+* Software and Hardware;
+* Computer Network;
 
 ## Academic formation: :mortar_board:
 * High School - ETE Epitácio Pessoa; :books:
