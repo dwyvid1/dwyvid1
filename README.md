@@ -2,7 +2,7 @@
 <h1 align="center">A Web Developer from Brazil:rocket:</h1>
 
 ## What am I studying? :books:
-* Bootcamp GoStack (Rocketseat) - NodeJS, ReactJS and React Native & more;
+* Bootcamp Ignite (Rocketseat) - NodeJS, ReactJS & more;
 * Discover (Rocketseat) - Web Development and Programming courses for beginners;
 * HTML 5, CSS3, JavaScript;
 * Linux Administration ( reading Linux - The Bible);
