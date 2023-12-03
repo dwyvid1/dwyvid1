@@ -1,8 +1,5 @@
-<h1 align="center">Hi there :v:, i'm Deyvid!</h1>
+<h3 align="center">Hi there :v:, i'm Deyvid!</h3>
 
-## What am I studying? :books:
-* Front-end Development
-* HT
+He who dwells in the secret place of the Most High will rest in the shadow of the Almighty. I will say of Yahweh, "He is my refuge and my fortress; my God, in whom I trust."
 
-## Contact :e-mail:
-* Instagram: https://www.instagram.com/dwyvid_/
+PSALMS 91:1-2
