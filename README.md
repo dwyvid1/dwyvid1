@@ -1,8 +1,19 @@
 # 👩🏻‍💻 Deyvid Matheus
 
-**`Entusiasta em T.I `**
+**`Profissional de T.I `**
 
 Me chamo Deyvid Matheus e sou um profissional de tecnologia com formação em Redes de Computadores e graduando em Sistemas de Informação. Atualmente, estudo Desenvolvimento Web, buscando aprimorar minhas habilidades em programação e criação de soluções eficientes. Trabalho na rede Arco-Mix e Arco-Vita, onde aplico meus conhecimentos para contribuir com inovação e melhoria de processos. Sempre em busca de novos desafios e aprendizado contínuo.
+
+## 🧠 Um pouco sobre o meu gosto pessoal
+
+### 💻 Administração de Sistemas  
+Sou apaixonado pelo mundo Unix e administração de sistemas. Minha distribuição Linux favorita é o Fedora, pela sua estabilidade, desempenho e foco em tecnologias de ponta. Gosto de explorar configurações avançadas, otimização de desempenho e automação de tarefas administrativas.  
+
+### 🛠️ Manutenção de Computadores
+Desde montagem e reparo de máquinas até diagnósticos e solução de problemas, gosto de entender como as coisas funcionam e encontrar maneiras de otimizar seu desempenho. Além disso, estou sempre aprendendo novas técnicas para garantir a segurança e eficiência de sistemas
+
+### 📚 Leitura  
+Além da tecnologia, gosto muito de ler. Um dos meus favoritos é *Linux: A Bíblia*. Também gosto bastante de Teologia e de romances, pois acredito que a leitura enriquece o conhecimento e amplia nossa visão de mundo.  
 
 ### 🤖 Linguagens e Tecnologias
 
