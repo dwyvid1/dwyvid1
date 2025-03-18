@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Deyvid Matheus
 
-**`Profissional de T.I `**
+**`Auxiliar de TI `**
 
-Me chamo Deyvid Matheus e sou um profissional de tecnologia com formação em Redes de Computadores e graduando em Sistemas de Informação. Atualmente, estudo Desenvolvimento Web, buscando aprimorar minhas habilidades em programação e criação de soluções eficientes. Trabalho na rede Arco-Mix e Arco-Vita, onde aplico meus conhecimentos para contribuir com inovação e melhoria de processos. Sempre em busca de novos desafios e aprendizado contínuo.
+Me chamo Deyvid Matheus e sou um profissional de tecnologia com formação em Redes de Computadores e graduando em Sistemas de Informação. Atualmente, estudo Desenvolvimento Web, buscando aprimorar minhas habilidades em programação e criação de soluções eficientes. Trabalho na rede Arco-Mix e Arco-Vita como Auxiliar de TI, onde aplico meus conhecimentos para contribuir com inovação e melhoria de processos. Sempre em busca de novos desafios e aprendizado contínuo.
 
 ## 🧠 Um pouco sobre o meu gosto pessoal
 
